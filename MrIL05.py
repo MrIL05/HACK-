@@ -1,5 +1,5 @@
 # -*- coding UTF-8 -*-
-#  Autho :MrIL05
+#  Autho : MrIL05
 #  Tools : Geli2 Efbeh
 #  Versi : 0.5
 
